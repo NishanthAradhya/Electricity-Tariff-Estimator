@@ -1,0 +1,111 @@
+[
+  {
+    "Name": "Product A",
+    "Type": 1,
+    "BaseCost": 5,
+    "AdditionalKwhCost": 22
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product A",
+    "Type": 3,
+    "BaseCost": 5,
+    "AdditionalKwhCost": 22
+  },
+  {
+    "Name": "Product B",
+    "Type": 4,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product A",
+    "Type": 1,
+    "BaseCost": 5,
+    "AdditionalKwhCost": 22
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  },
+  {
+    "Name": "Product B",
+    "Type": 2,
+    "IncludedKwh": 4000,
+    "BaseCost": 800,
+    "AdditionalKwhCost": 30
+  }
+]

@@ -1,0 +1,11 @@
+.inputDiv{
+  display: grid;
+  justify-content: space-around;
+}
+button{
+  margin-top: 3px;
+}
+.productDiv{
+  height: 470px;
+  overflow-y: auto;
+}

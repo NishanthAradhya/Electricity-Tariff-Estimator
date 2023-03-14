@@ -1,0 +1,9 @@
+
+<div class="listDiv">
+    <ul class="list-group">
+    <li *ngFor="let product of productList" class="list-group-item d-flex justify-content-between align-items-center">
+     {{product.productName}}
+      <span class="badge bg-primary rounded-pill">{{product.estimatedAnnualCost | currency:'EUR'}}</span>
+    </li>
+    </ul>
+</div>

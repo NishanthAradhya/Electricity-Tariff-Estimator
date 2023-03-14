@@ -1,0 +1,17 @@
+<div class="row g-3" style="margin-top: 2%">
+    <div class="col"></div>
+    <div class="col-3 inputDiv">
+        <input type="number" required #customerInpot class="form-control" id="consumption" placeholder="in kWh/year">
+        <button  class="btn btn-primary mb-3" (click)="estimate(customerInpot.value)">Estimate Tariff</button>
+    </div>
+    <div class="col">
+      <label class="errorLabel" *ngIf="validationError">*{{this.errorMessage}}</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col"></div>
+    <div class="col-4 productDiv" *ngIf="showList">
+      <app-tariff-products [productList]="products"></app-tariff-products>
+    </div>
+    <div class="col"></div>
+  </div>

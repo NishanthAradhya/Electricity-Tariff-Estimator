@@ -1,0 +1,12 @@
+E:\WebApp\WebApi\Web.Api\Proxy\bin\Debug\net6.0\Proxy.deps.json
+E:\WebApp\WebApi\Web.Api\Proxy\bin\Debug\net6.0\Proxy.dll
+E:\WebApp\WebApi\Web.Api\Proxy\bin\Debug\net6.0\Proxy.pdb
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.dll
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\Proxy.pdb
+E:\WebApp\WebApi\Web.Api\Proxy\obj\Debug\net6.0\ref\Proxy.dll
